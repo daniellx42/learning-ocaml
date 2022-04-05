@@ -1,0 +1,10 @@
+_build
+
+helloworld/_build
+helloworld/helloworld.esy.lock
+helloworld/node_modules
+helloworld/_esy
+helloworld/main.exe
+helloworld/bin/main.cmi
+helloworld/bin/main.cmx
+helloworld/bin/main.o
